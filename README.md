@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nowoadisuryo
-- 👀 I’m interested in TypeScript, NodeJS, and JavaScript
-- 🌱 I’m currently learning TypeScript, NodeJS, and JavaScript
-- 💞️ I’m looking to collaborate on non-profit organization projects for humanity
+- 👋 Hi, I’m Nowo
+- 👀 I’m interested in TypeScript, NodeJS, ReactJS, and JavaScript
+- 🌱 I’m currently working with TypeScript, NodeJS, ReactJS, and JavaScript
+<!-- - 💞️ I’m looking to collaborate on non-profit organization projects for humanity -->
 - 📫 For business inquiry, send email to nowoadisuryo@gmail.com
 
 <!---
